@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+
+@font-face {
+    font-family: 'fontAlexei';
+    src: url('/fonts/Oswald.zip') format('truetupe');
+}
+
+body {
+    font-family: 'fontAlexei', sans-serif;
+}
